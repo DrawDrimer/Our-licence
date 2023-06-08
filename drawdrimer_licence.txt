@@ -1,0 +1,16 @@
+Drawdrimer inc.
+
+-----------------------------------------------
+Licence update 06/08/2023 2:39 pm
+
+===============================================
+
+this licence is free and only can used in open
+source applications and projects
+licence url: https://github.com/DrawDrimer/Our-licence
+
+Used on CoverflowOS; Choons; Floppy network; Max Editor
+
+thanks.for.useing.our.licence('<program name>')
+
+===============================================
